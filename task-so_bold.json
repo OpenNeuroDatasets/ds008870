@@ -1,0 +1,6 @@
+{
+  "TaskName": "so",
+  "TaskFullName": "Sequential order",
+  "TaskDescription": "18-s blocks of two 9-s trials. Participants saw a sequence of five items with one position replaced by a question mark and selected the item completing the sequence from four alternatives; sequences varied in color, rotation, scale and displacement of a single shape. Regular- and irregular-shape blocks alternate in odd positions; control blocks with faces, tools or houses in the same layout are in even positions (16 blocks per run).",
+  "PulseSequenceType": "Multiband gradient-echo EPI"
+}
