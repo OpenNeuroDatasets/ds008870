@@ -1,6 +1,0 @@
-{
-  "TaskName": "wm",
-  "TaskFullName": "Visuospatial working memory",
-  "TaskDescription": "18-s blocks of two 9-s trials. Five dots were shown one at a time on a 4 x 4 grid (300-ms cue, 700-ms delay), in regular or irregular spatial sequences. One dot was then highlighted with a number and participants judged (Yes/No, 3-s limit) whether it matched both location and ordinal position. Control trials: dots turned green during cues and blue at the end, and participants pressed Yes or No. Block order: regular - control - irregular - control (16 blocks per run).",
-  "PulseSequenceType": "Multiband gradient-echo EPI"
-}
