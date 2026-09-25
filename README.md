@@ -7,8 +7,7 @@ Klingberg; Department of Neuroscience, Karolinska Institutet).
 ## Study background
 Humans are more accurate and faster with regular geometric shapes (e.g. squares, rectangles) than with
 irregular ones: the *geometric regularity effect*. It has been proposed that this sensitivity to
-geometric regularities is specifically linked to mathematical thinking, possibly through a shared
-"language of thought" supported by the anterior intraparietal sulcus (aIPS). The study tested this
+geometric regularities is specifically linked to mathematical thinking, supported by the anterior intraparietal sulcus (aIPS). The study tested this
 against the alternative that geometry is one of many spatial abilities linked to mathematics.
 
 Two online behavioral experiments (N = 150 and N = 200; not part of this dataset) found a robust
@@ -46,8 +45,8 @@ Imaging Centre (SUBIC).
 Stimuli were presented with PsychoPy 2023.2.3. Full task descriptions are in
 `task-<label>_bold.json` (TaskDescription) and the conditions in `task-<label>_events.json`.
 
-| task label | task | trial length | runs per session |
-|------------|------|--------------|------------------|
+| task label | task | 
+|------------|------|
 | `oddball`  | Visual (geometry) localizer: 6-s miniblocks of six 1-s images (regular shapes, irregular shapes, arithmetic formulas, tools, houses, faces), interblock interval 4/6/8 s; button press when the fixation dot turns red 
 | `math`     | Number comparison (choose the larger of two numbers in decimal/scientific notation) vs control (choose the vowel); 18-s blocks of three trials 
 | `so`       | Sequential order: complete a sequence of five shapes; regular/irregular shapes vs face/tool/house control; 18-s blocks of two trials 
