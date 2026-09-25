@@ -1,0 +1,43 @@
+{
+    "Name": "Is Geometry the Language of Mathematics or is Space the Language of Both? (fMRI study)",
+    "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Nieves Ruiz Ibáñez",
+        "Ella Gruber",
+        "Andreas Lindström",
+        "Mathias Sablé-Meyer",
+        "Torkel Klingberg"
+    ],
+    "Acknowledgements": "Data were acquired at the Stockholm University Brain Imaging Centre (SUBIC).",
+    "Funding": [
+        "Marianne and Marcus Wallenbergs Stiftelse (MMW 2020.0064)",
+        "Grant to the Stockholm University Brain Imaging Centre (SU FV-5.1.2-1035-15)"
+    ],
+    "EthicsApprovals": [
+        "Stockholm Regional Ethical Review Board, 2015/975-31"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "dcm2niix",
+            "Version": "v1.0.20241211"
+        }
+    ],
+    "HowToAcknowledge": "Please cite: Ruiz Ibáñez, N., Gruber, E., Lindström, A., Sablé-Meyer, M., & Klingberg, T. Is Geometry the Language of Mathematics or is Space the Language of Both?",
+    "ReferencesAndLinks": [
+        "Preregistration: https://osf.io/gd7xn/",
+        "Materials: https://doi.org/10.5281/zenodo.22744442",
+        "Analysis scripts: https://doi.org/10.5281/zenodo.22798133"
+    ],
+    "Keywords": [
+        "geometry",
+        "mathematics",
+        "spatial cognition",
+        "working memory",
+        "mental rotation",
+        "intraparietal sulcus",
+        "task fMRI"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008870.v1.0.1"
+}

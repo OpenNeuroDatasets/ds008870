@@ -1,0 +1,6 @@
+{
+  "TaskName": "oddball",
+  "TaskFullName": "Visual localizer",
+  "TaskDescription": "Miniblocks of six images (1 s each; 6-s blocks) separated by a random interblock interval of 4, 6 or 8 s. Categories: regular geometric shapes, irregular geometric shapes, single-digit arithmetic formulas, tools, houses and faces. Regular and irregular geometric blocks alternate in odd positions; the other categories are in even positions (6 blocks per geometric category and 2 per other category, 24 blocks per run). Participants fixated a central green dot and pressed a button when it turned red (at most once per block).",
+  "PulseSequenceType": "Multiband gradient-echo EPI"
+}
