@@ -1,6 +1,0 @@
-{
-  "TaskName": "rotation",
-  "TaskFullName": "Mental rotation",
-  "TaskDescription": "18-s blocks of two 9-s trials. Two geometric shapes combined to form a target shape; participants identified the correct rotated version of the target among four alternatives (correct rotation, its mirror image, two distractors). Regular- and irregular-shape blocks alternate in odd positions; control blocks with faces, tools or houses in the same layout are in even positions (16 blocks per run).",
-  "PulseSequenceType": "Multiband gradient-echo EPI"
-}
