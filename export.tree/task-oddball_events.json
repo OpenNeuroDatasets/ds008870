@@ -1,0 +1,26 @@
+{
+  "onset": {
+    "Description": "Onset relative to the first volume of the run",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Trial duration (0 for button presses)",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Trial condition, or button_press",
+    "Levels": {
+      "regular": "Regular geometric shapes (rectangles, squares)",
+      "irregular": "Irregular geometric shapes",
+      "number": "Single-digit arithmetic formulas (x + y, x - y)",
+      "tool": "Hand-held tools",
+      "house": "Houses",
+      "face": "Faces (KDEF, neutral)",
+      "button_press": "Button press to the fixation dot turning red"
+    }
+  },
+  "StimulusPresentation": {
+    "SoftwareName": "PsychoPy",
+    "SoftwareVersion": "2023.2.3"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "onset": {
+    "Description": "Onset relative to the first volume of the run",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Trial duration (0 for button presses)",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Trial condition, or button_press",
+    "Levels": {
+      "math": "Number comparison (NC) trial",
+      "control": "Letter (vowel selection) control trial",
+      "button_press": "Button press (onset = trial onset + reaction time)"
+    }
+  },
+  "StimulusPresentation": {
+    "SoftwareName": "PsychoPy",
+    "SoftwareVersion": "2023.2.3"
+  }
+}
