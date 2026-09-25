@@ -5,8 +5,8 @@ Mathematics or is Space the Language of Both?"* (Ruiz Ibáñez, Gruber, Lindstr�
 Klingberg; Department of Neuroscience, Karolinska Institutet).
 
 ## Study background
-Humans are more accurate and faster with regular geometric shapes (e.g. squares, rectangles) than with
-irregular ones: the *geometric regularity effect*. It has been proposed that this sensitivity to
+Humans show more accurate and faster responses with regular geometric shapes (e.g. squares, rectangles) than with
+irregular ones. This effect is called the *geometric regularity effect*. It has been proposed that this sensitivity to
 geometric regularities is specifically linked to mathematical thinking, supported by the anterior intraparietal sulcus (aIPS). The study tested this
 against the alternative that geometry is one of many spatial abilities linked to mathematics.
 
@@ -14,7 +14,7 @@ Two online behavioral experiments (N = 150 and N = 200; not part of this dataset
 geometric regularity effect that did not explain individual differences in mathematical ability. This
 fMRI dataset tested neural specificity: each participant performed a geometry localizer, a mathematics
 task and three spatial tasks (sequential order, mental rotation, visuospatial working memory), all with
-regular vs irregular geometric stimuli where applicable. Analyses were done in native space per
+regular vs irregular geometric stimuli, except for the mathematical task. Analyses were done in native space per
 participant, to test whether any brain region (in particular within the IPS) is shared exclusively by
 geometry and mathematics. All tasks generally activated bilateral aIPS, and no region was exclusive to
 geometry and mathematics, pointing to a broad association between mathematics and spatial cognition
