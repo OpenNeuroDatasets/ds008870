@@ -1,0 +1,6 @@
+{
+  "TaskName": "math",
+  "TaskFullName": "Number comparison (mathematics)",
+  "TaskDescription": "18-s blocks of three 6-s trials alternating between number comparison (NC) and control (8 blocks each per run). NC trials: two numbers expressed with decimals or scientific notation; participants selected the larger one. Control trials: three identical letters on each side of the screen; participants selected the vowel.",
+  "PulseSequenceType": "Multiband gradient-echo EPI"
+}
